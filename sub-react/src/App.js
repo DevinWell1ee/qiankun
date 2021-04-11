@@ -2,7 +2,6 @@
 import React, { useCallback } from 'react';
 import { BrowserRouter as Router, Route, Switch, Redirect, Link } from "react-router-dom";
 
-import './App.css';
 
 import Home from './Home'
 import About from './About'
